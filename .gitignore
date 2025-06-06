@@ -1,0 +1,6 @@
+*/*-backups*
+**/*-backups*
+wj6502-backups/
+*.bak
+**/*.zip
+
